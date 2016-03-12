@@ -1,2 +1,2 @@
-# javascript-observer-pattern
-Observer pattern in JavaScript.
+# Observer pattern in JavaScript
+
